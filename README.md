@@ -1,4 +1,6 @@
-# AutoGPT: Build, Deploy, and Run AI Agents
+# AutoGPT: Build, Deploy, and Run AI Agents (MIT License Only)
+
+> **Note**: This is a fork of the original AutoGPT repository containing only the MIT licensed components. The `autogpt_platform` folder (which was under Polyform Shield License) has been removed to ensure all code in this repository is under the MIT License.
 
 [![Discord Follow](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fautogpt%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=total%20members&logo=discord&logoColor=white&color=7289da)](https://discord.gg/autogpt) &ensp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;
@@ -113,7 +115,7 @@ Here are two examples of what you can do with AutoGPT:
 These examples show just a glimpse of what you can achieve with AutoGPT! You can create customized workflows to build agents for any use case.
 
 ---
-### Mission and Licencing
+### Mission and Licensing
 Our mission is to provide the tools, so that you can focus on what matters:
 
 - 🏗️ **Building** - Lay the foundation for something amazing.
@@ -128,11 +130,9 @@ Be part of the revolution! **AutoGPT** is here to stay, at the forefront of AI i
 
 **Licensing:**
 
-MIT License: The majority of the AutoGPT repository is under the MIT License.
+This repository contains only MIT Licensed code. The original AutoGPT repository contained some files under the Polyform Shield License (specifically the `autogpt_platform` folder), but those have been removed from this fork to ensure all content is under the MIT License.
 
-Polyform Shield License: This license applies to the autogpt_platform folder. 
-
-For more information, see https://agpt.co/blog/introducing-the-autogpt-platform
+For information about the original project's licensing, see https://agpt.co/blog/introducing-the-autogpt-platform
 
 ---
 ## 🤖 AutoGPT Classic
